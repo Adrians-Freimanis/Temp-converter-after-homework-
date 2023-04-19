@@ -13,6 +13,7 @@
 		A496049129EFE5610010EE3D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A496048F29EFE5610010EE3D /* Main.storyboard */; };
 		A496049329EFE5630010EE3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A496049229EFE5630010EE3D /* Assets.xcassets */; };
 		A496049629EFE5630010EE3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A496049429EFE5630010EE3D /* LaunchScreen.storyboard */; };
+		A496049E29F01E200010EE3D /* settingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A496049D29F01E200010EE3D /* settingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A496049229EFE5630010EE3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A496049529EFE5630010EE3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A496049729EFE5630010EE3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A496049D29F01E200010EE3D /* settingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = settingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A496048929EFE5610010EE3D /* AppDelegate.swift */,
 				A496048B29EFE5610010EE3D /* SceneDelegate.swift */,
 				A496048D29EFE5610010EE3D /* ViewController.swift */,
+				A496049D29F01E200010EE3D /* settingViewController.swift */,
 				A496048F29EFE5610010EE3D /* Main.storyboard */,
 				A496049229EFE5630010EE3D /* Assets.xcassets */,
 				A496049429EFE5630010EE3D /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				A496048E29EFE5610010EE3D /* ViewController.swift in Sources */,
 				A496048A29EFE5610010EE3D /* AppDelegate.swift in Sources */,
 				A496048C29EFE5610010EE3D /* SceneDelegate.swift in Sources */,
+				A496049E29F01E200010EE3D /* settingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
